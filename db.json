@@ -1,0 +1,216 @@
+[
+    {
+      "id": 1,
+      "plant_name": "Rose",
+      "color": "Red",
+      "size": "Medium",
+      "price": 15.99,
+      "variant": "Standard",
+      "description": "A beautiful red rose with medium-sized blooms.",
+      "reviews": [
+        {
+          "user": "Alice",
+          "comment": "Absolutely stunning! The roses were delivered fresh and vibrant. Highly recommend.",
+          "rating": 5
+        },
+        {
+          "user": "Bob",
+          "comment": "Lovely roses! They arrived in perfect condition. Will definitely buy again.",
+          "rating": 4
+        }
+      ],
+      "image_url": "/images/rose.jpg",
+      "image_slide": [
+        "/images/rose_1.jpg",
+        "/images/rose_2.jpg",
+        "/images/rose_3.jpg",
+        "/images/rose_4.jpg"
+      ],
+      "details": {
+        "blooming_season": "Spring to Fall",
+        "height": "2-3 feet",
+        "watering": "Regular watering, do not overwater",
+        "light": "Full sun to partial shade",
+        "soil": "Well-drained soil",
+        "temperature": "Moderate temperatures"
+      },
+      "care": {
+        "pruning": "Prune dead or damaged branches regularly",
+        "fertilizing": "Apply rose fertilizer every 4-6 weeks during the growing season",
+        "pests": "Watch for aphids, spider mites, and Japanese beetles",
+        "diseases": "Prevent powdery mildew and black spot by providing good air circulation"
+      }
+    },
+    {
+      "id": 2,
+      "plant_name": "Lavender",
+      "color": "Purple",
+      "size": "Small",
+      "price": 12.99,
+      "variant": "Standard",
+      "description": "Fragrant purple lavender plant, perfect for gardens or containers.",
+      "reviews": [
+        {
+          "user": "Carol",
+          "comment": "Lovely lavender plants! They arrived well-packaged and in excellent condition.",
+          "rating": 5
+        },
+        {
+          "user": "David",
+          "comment": "The lavender smells amazing! Can't wait to buy more.",
+          "rating": 5
+        }
+      ],
+      "image_url": "/images/lavender.jpg",
+      "image_slide": [
+        "/images/lavender_1.jpg",
+        "/images/lavender_2.jpg",
+        "/images/lavender_3.jpg",
+        "/images/lavender_4.jpg"
+      ],
+      "details": {
+        "blooming_season": "Spring to Summer",
+        "height": "1-3 feet",
+        "watering": "Allow soil to dry between waterings",
+        "light": "Full sun",
+        "soil": "Well-drained, sandy soil",
+        "temperature": "Tolerant of heat, prefers cooler nights"
+      },
+      "care": {
+        "pruning": "Prune after flowering to maintain shape",
+        "fertilizing": "Apply a balanced fertilizer in spring",
+        "pests": "Watch for aphids, slugs, and snails",
+        "diseases": "Prevent root rot by ensuring good drainage"
+      }
+    },
+    {
+      "id": 3,
+      "plant_name": "Fern",
+      "color": "Green",
+      "size": "Large",
+      "price": 20.99,
+      "variant": "Standard",
+      "description": "Large green fern, ideal for indoor or outdoor decoration.",
+      "reviews": [
+        {
+          "user": "Emma",
+          "comment": "The ferns were exactly as described and looked fantastic in my living room.",
+          "rating": 4
+        },
+        {
+          "user": "Frank",
+          "comment": "Beautiful ferns! Great addition to my garden.",
+          "rating": 5
+        }
+      ],
+      "image_url": "/images/fern.jpg",
+      "image_slide": [
+        "/images/fern_1.jpg",
+        "/images/fern_2.jpg",
+        "/images/fern_3.jpg",
+        "/images/fern_4.jpg"
+      ],
+      "details": {
+        "growth_habit": "Clumping",
+        "height": "1-3 feet",
+        "spread": "1-2 feet",
+        "light": "Indirect light",
+        "watering": "Keep soil consistently moist",
+        "humidity": "Prefers high humidity",
+        "temperature": "Moderate temperatures"
+      },
+      "care": {
+        "watering": "Water regularly, but do not allow soil to become waterlogged",
+        "fertilizing": "Feed with a balanced liquid fertilizer every 2-4 weeks during the growing season",
+        "pruning": "Trim dead or damaged fronds as needed",
+        "humidity": "Mist regularly to increase humidity levels"
+      }
+    },
+    {
+      "id": 4,
+      "plant_name": "Succulent",
+      "color": "Assorted",
+      "size": "Mini",
+      "price": 8.99,
+      "variant": "Assorted Pack",
+      "description": "Assorted pack of mini succulents, easy to care for and perfect for small spaces.",
+      "reviews": [
+        {
+          "user": "Grace",
+          "comment": "Great assortment of succulents! They added a nice touch to my desk.",
+          "rating": 4
+        },
+        {
+          "user": "Henry",
+          "comment": "These succulents are adorable! Perfect for my office.",
+          "rating": 5
+        }
+      ],
+      "image_url": "/images/succulent.jpg",
+      "image_slide": [
+        "/images/succulent_1.jpg",
+        "/images/succulent_2.jpg",
+        "/images/succulent_3.jpg",
+        "/images/succulent_4.jpg"
+      ],
+      "details": {
+        "growth_habit": "Clumping",
+        "height": "Under 6 inches",
+        "spread": "Varies by species",
+        "light": "Full sun to partial shade",
+        "watering": "Allow soil to dry between waterings",
+        "soil": "Sandy, well-draining soil",
+        "temperature": "Tolerant of warm temperatures, protect from frost"
+      },
+      "care": {
+        "watering": "Water sparingly, especially during winter",
+        "fertilizing": "Fertilize with a diluted succulent fertilizer once a month during the growing season",
+        "pruning": "Remove dead leaves as needed",
+        "pests": "Watch for mealybugs and aphids"
+      }
+    },
+    {
+      "id": 5,
+      "plant_name": "Sunflower",
+      "color": "Yellow",
+      "size": "Large",
+      "price": 18.99,
+      "variant": "Standard",
+      "description": "Bright and cheerful yellow sunflower, brings a touch of summer to any garden.",
+      "reviews": [
+        {
+          "user": "Ivy",
+          "comment": "These sunflowers were breathtaking! They brightened up my entire backyard.",
+          "rating": 5
+        },
+        {
+          "user": "Jack",
+          "comment": "Beautiful sunflowers! I'm very pleased with my purchase.",
+          "rating": 5
+        }
+      ],
+      "image_url": "/images/sunflower.jpg",
+      "image_slide": [
+        "/images/sunflower_1.jpg",
+        "/images/sunflower_2.jpg",
+        "/images/sunflower_3.jpg",
+        "/images/sunflower_4.jpg"
+      ],
+      "details": {
+        "blooming_season": "Summer to Fall",
+        "height": "4-8 feet",
+        "spread": "1-2 feet",
+        "light": "Full sun",
+        "watering": "Regular watering, keep soil evenly moist",
+        "soil": "Well-drained, fertile soil",
+        "temperature": "Prefers warm temperatures"
+      },
+      "care": {
+        "watering": "Water deeply but infrequently",
+        "fertilizing": "Fertilize with a balanced fertilizer every 2-3 weeks during the growing season",
+        "pruning": "Deadhead spent flowers regularly to encourage continuous blooming",
+        "pests": "Watch for aphids, caterpillars, and birds"
+      }
+    }
+  ]
+  
