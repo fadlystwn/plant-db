@@ -20,12 +20,12 @@
           "rating": 4
         }
       ],
-      "image_url": "/images/rose.jpg",
+      "image_url": "/rose.jpg",
       "image_slide": [
-        "/images/rose_1.jpg",
-        "/images/rose_2.jpg",
-        "/images/rose_3.jpg",
-        "/images/rose_4.jpg"
+        "/rose_1.jpg",
+        "/rose_2.jpg",
+        "/rose_3.jpg",
+        "/rose_4.jpg"
       ],
       "details": {
         "blooming_season": "Spring to Fall",
@@ -62,12 +62,12 @@
           "rating": 5
         }
       ],
-      "image_url": "/images/lavender.jpg",
+      "image_url": "/lavender.jpg",
       "image_slide": [
-        "/images/lavender_1.jpg",
-        "/images/lavender_2.jpg",
-        "/images/lavender_3.jpg",
-        "/images/lavender_4.jpg"
+        "/lavender_1.jpg",
+        "/lavender_2.jpg",
+        "/lavender_3.jpg",
+        "/lavender_4.jpg"
       ],
       "details": {
         "blooming_season": "Spring to Summer",
@@ -104,12 +104,12 @@
           "rating": 5
         }
       ],
-      "image_url": "/images/fern.jpg",
+      "image_url": "/fern.jpg",
       "image_slide": [
-        "/images/fern_1.jpg",
-        "/images/fern_2.jpg",
-        "/images/fern_3.jpg",
-        "/images/fern_4.jpg"
+        "/fern_1.jpg",
+        "/fern_2.jpg",
+        "/fern_3.jpg",
+        "/fern_4.jpg"
       ],
       "details": {
         "growth_habit": "Clumping",
@@ -147,12 +147,12 @@
           "rating": 5
         }
       ],
-      "image_url": "/images/succulent.jpg",
+      "image_url": "/succulent.jpg",
       "image_slide": [
-        "/images/succulent_1.jpg",
-        "/images/succulent_2.jpg",
-        "/images/succulent_3.jpg",
-        "/images/succulent_4.jpg"
+        "/succulent_1.jpg",
+        "/succulent_2.jpg",
+        "/succulent_3.jpg",
+        "/succulent_4.jpg"
       ],
       "details": {
         "growth_habit": "Clumping",
@@ -190,12 +190,12 @@
           "rating": 5
         }
       ],
-      "image_url": "/images/sunflower.jpg",
+      "image_url": "/sunflower.jpg",
       "image_slide": [
-        "/images/sunflower_1.jpg",
-        "/images/sunflower_2.jpg",
-        "/images/sunflower_3.jpg",
-        "/images/sunflower_4.jpg"
+        "/sunflower_1.jpg",
+        "/sunflower_2.jpg",
+        "/sunflower_3.jpg",
+        "/sunflower_4.jpg"
       ],
       "details": {
         "blooming_season": "Summer to Fall",
